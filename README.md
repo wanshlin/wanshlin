@@ -32,7 +32,7 @@
 
 
 ## <img src="https://media.giphy.com/media/ggo67pD8QZAWvRdqTL/giphy.gif" width="55px">&nbsp;***Tech Stack***
-<img align="right" width=350px alt="Unicorn" src="https://media.giphy.com/media/Ut7zeRXCmxc0td7N68/giphy.gif"/>
+<img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/Ut7zeRXCmxc0td7N68/giphy.gif"/>
 
 
 - [ ] Python
